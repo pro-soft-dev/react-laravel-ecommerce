@@ -1,3 +1,3 @@
-# laravel8-react-ecommerce
+# laravel & react-ecommerce
 
-Lazapee is an ECommerce PWA (Progressive Web Application) made with Laravel and ReactJs.
+This is an ECommerce PWA (Progressive Web Application) made with Laravel and ReactJs.
